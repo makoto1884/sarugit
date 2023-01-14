@@ -1,7 +1,2 @@
-Hello world
-<<<<<<< HEAD
-miru kuma
-=======
-chenges txt
-kumakuma
->>>>>>> test2
+Hello world`
+コンフリクト解決
