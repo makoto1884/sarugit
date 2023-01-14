@@ -1,2 +1,2 @@
-Hello world
-chenges txt
+Hello world`
+コンフリクト解決
